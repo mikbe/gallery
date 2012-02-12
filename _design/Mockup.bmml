@@ -1,0 +1,277 @@
+<mockup version="1.0" skin="sketch" measuredW="3274" measuredH="2386" mockupW="3188" mockupH="2340">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="86" y="46" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>toelle-hovan%0Ahttp%3A//toelle-hovan.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="815" y="143" w="-1" h="-1" measuredW="215" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>toelle%20hovan</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::MenuBar" x="732" y="192" w="-1" h="-1" measuredW="305" measuredH="29" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>0</selectedIndex>
+        <text>home%2C%20works%2C%20news%20%26%20events%2C%20classes</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="768" y="247" w="269" h="475" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="114" y="248" w="632" h="475" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="158" y="266" w="544" h="350" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>a%20random%20image</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::SubTitle" x="158" y="631" w="-1" h="-1" measuredW="65" measuredH="33" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>name</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::SubTitle" x="158" y="664" w="-1" h="-1" measuredW="52" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>medium</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1157" y="46" w="1024" h="768" measuredW="450" measuredH="400" zOrder="8" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>toelle-hovan%0Ahttp%3A//toelle-hovan.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="1876" y="143" w="-1" h="-1" measuredW="215" measuredH="50" zOrder="9" locked="true" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>toelle%20hovan</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::MenuBar" x="1807" y="193" w="-1" h="-1" measuredW="305" measuredH="29" zOrder="10" locked="true" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>1</selectedIndex>
+        <text>home%2C%20works%2C%20news%20%26%20events%2C%20classes</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::SubTitle" x="788" y="271" w="-1" h="-1" measuredW="79" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>news%20item</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="788" y="315" w="202" h="64" measuredW="523" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Neque%20porro%20quisquam%20est%20qui%20dolorem%20ipsum%20quia%20dolor%20sit%20amet%2C%20consectetur%2C%20adipisci%20velit..</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::SubTitle" x="788" y="394" w="-1" h="-1" measuredW="46" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>event</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="788" y="416" w="202" h="20" measuredW="97" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2012.03.12%20-%2014</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="788" y="290" w="202" h="20" measuredW="74" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2012.02.20</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="788" y="438" w="202" h="64" measuredW="523" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Neque%20porro%20quisquam%20est%20qui%20dolorem%20ipsum%20quia%20dolor%20sit%20amet%2C%20consectetur%2C%20adipisci%20velit..</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::SubTitle" x="788" y="506" w="-1" h="-1" measuredW="34" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>info</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="788" y="528" w="202" h="20" measuredW="71" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2012.02.01</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="788" y="550" w="202" h="64" measuredW="523" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Neque%20porro%20quisquam%20est%20qui%20dolorem%20ipsum%20quia%20dolor%20sit%20amet%2C%20consectetur%2C%20adipisci%20velit..</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Canvas" x="1209" y="247" w="929" h="491" measuredW="100" measuredH="70" zOrder="20" locked="false" isInGroup="-1"/>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Canvas" x="1247" y="299" w="844" h="104" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::SubTitle" x="1876" y="315" w="-1" h="-1" measuredW="167" measuredH="72" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>60</size>
+        <text>arylics</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Image" x="1261" y="309" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Canvas" x="1247" y="427" w="844" h="104" measuredW="100" measuredH="70" zOrder="24" locked="false" isInGroup="-1"/>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::SubTitle" x="1985" y="443" w="-1" h="-1" measuredW="58" measuredH="72" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>60</size>
+        <text>oil</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Image" x="1261" y="437" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Canvas" x="1247" y="565" w="844" h="104" measuredW="100" measuredH="70" zOrder="27" locked="false" isInGroup="-1"/>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::SubTitle" x="1699" y="581" w="-1" h="-1" measuredW="344" measuredH="72" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>60</size>
+        <text>student%20work</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Image" x="1261" y="575" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1157" y="841" w="1024" h="768" measuredW="450" measuredH="400" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>toelle-hovan%0Ahttp%3A//toelle-hovan.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="1876" y="938" w="-1" h="-1" measuredW="215" measuredH="50" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>toelle%20hovan</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::MenuBar" x="1807" y="988" w="-1" h="-1" measuredW="305" measuredH="29" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>1</selectedIndex>
+        <text>home%2C%20works%2C%20news%20%26%20events%2C%20classes</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Canvas" x="1209" y="1032" w="929" h="491" measuredW="100" measuredH="70" zOrder="33" locked="false" isInGroup="-1"/>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Image" x="1306" y="1071" w="200" h="193" measuredW="77" measuredH="79" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Image" x="1590" y="1070" w="200" h="193" measuredW="77" measuredH="79" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Image" x="1849" y="1070" w="200" h="193" measuredW="77" measuredH="79" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Image" x="1306" y="1280" w="200" h="193" measuredW="77" measuredH="79" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Image" x="1590" y="1279" w="200" h="193" measuredW="77" measuredH="79" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Image" x="1849" y="1279" w="200" h="193" measuredW="77" measuredH="79" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::SubTitle" x="1209" y="960" w="-1" h="-1" measuredW="167" measuredH="72" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>60</size>
+        <text>arylics</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::SubTitle" x="1209" y="170" w="-1" h="-1" measuredW="160" measuredH="72" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>60</size>
+        <text>works</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Title" x="1224" y="1234" w="-1" h="-1" measuredW="54" measuredH="85" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>72</size>
+        <text>%3C</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Title" x="2064" y="1234" w="-1" h="-1" measuredW="55" measuredH="85" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>72</size>
+        <text>%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="86" y="850" w="1024" h="768" measuredW="450" measuredH="400" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>toelle-hovan%0Ahttp%3A//toelle-hovan.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="815" y="947" w="-1" h="-1" measuredW="215" measuredH="50" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>toelle%20hovan</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::MenuBar" x="732" y="996" w="-1" h="-1" measuredW="305" measuredH="29" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>0</selectedIndex>
+        <text>home%2C%20works%2C%20news%20%26%20events%2C%20classes</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1157" y="1618" w="1024" h="768" measuredW="450" measuredH="400" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>toelle-hovan%0Ahttp%3A//toelle-hovan.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Label" x="1886" y="1715" w="-1" h="-1" measuredW="215" measuredH="50" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>toelle%20hovan</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::MenuBar" x="1803" y="1764" w="-1" h="-1" measuredW="305" measuredH="29" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>1</selectedIndex>
+        <text>home%2C%20works%2C%20news%20%26%20events%2C%20classes</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="2250" y="46" w="1024" h="768" measuredW="450" measuredH="400" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>toelle-hovan%0Ahttp%3A//toelle-hovan.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Label" x="2979" y="143" w="-1" h="-1" measuredW="215" measuredH="50" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>toelle%20hovan</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::MenuBar" x="2896" y="192" w="-1" h="-1" measuredW="305" measuredH="29" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>0</selectedIndex>
+        <text>home%2C%20works%2C%20news%20%26%20events%2C%20classes</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

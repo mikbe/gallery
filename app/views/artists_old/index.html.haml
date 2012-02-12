@@ -1,0 +1,19 @@
+%h1 artists
+
+- @artists.each do |artist|
+  - row_color = cycle('row_odd', 'row_even')
+  %div{class: ["row_class", row_color]}
+    .grid_1= image_tag(artist.image_url, class: 'list_image')
+    .grid_9
+      .list_name= full_name artist
+      .list_bio= truncate(strip_tags(artist.bio), length: 220)
+    .grid_1
+      %br
+      = link_to 'Show', artist 
+      %br
+      = link_to 'Edit', edit_artist_path(artist)
+      %br
+      = link_to 'Destroy', artist, :confirm => 'Are you sure?', :method => :delete
+
+
+= link_to 'New Artist', new_artist_path

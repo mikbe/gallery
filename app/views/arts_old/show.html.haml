@@ -1,0 +1,29 @@
+/%p#notice= notice
+
+.art_wrapper
+  /.grid_4.alpha
+  = image_tag(@art.image_url, class: "art_image")
+
+.info_wrapper
+  .info
+    /.grid_5
+    %p
+      %b Name:
+      = @art.name
+    %p
+      %b Artist:
+      = @art.artist_id
+    %p
+      %b Description:
+      = @art.description
+    %p
+      %b Medium:
+      = @art.medium
+    %p
+      %b Created:
+      = @art.created
+    
+.grid_12
+  = link_to 'Edit', edit_art_path(@art)
+  \|
+  = link_to 'Back', arts_path

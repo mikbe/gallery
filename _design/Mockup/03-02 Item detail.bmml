@@ -1,0 +1,44 @@
+<mockup version="1.0" skin="sketch" measuredW="1058" measuredH="800" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="34" y="32" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>toelle-hovan%0Ahttp%3A//toelle-hovan.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="753" y="129" w="-1" h="-1" measuredW="215" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>toelle%20hovan</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::MenuBar" x="678" y="179" w="-1" h="-1" measuredW="305" measuredH="29" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>2</selectedIndex>
+        <text>home%2C%20works%2C%20news%20%26%20events%2C%20classes</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="66" y="223" w="960" h="536" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="110" y="253" w="844" h="476" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::SubTitle" x="125" y="268" w="-1" h="-1" measuredW="92" measuredH="33" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>headline</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::SubTitle" x="883" y="267" w="-1" h="-1" measuredW="56" measuredH="33" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>date</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Paragraph" x="217" y="316" w="632" h="376" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Aenean%20faucibus%20augue%20et%20sem%20fringilla%20vehicula.%20Quisque%20hendrerit%20lacinia%20orci%2C%20vel%20facilisis%20augue%20tincidunt%20nec.%20Fusce%20at%20sodales%20purus.%20Aliquam%20malesuada%20mattis%20suscipit.%20Quisque%20ut%20nisi%20magna.%20Aliquam%20ligula%20leo%2C%20suscipit%20in%20vestibulum%20ultrices%2C%20convallis%20id%20lorem.%20Donec%20lacinia%20rutrum%20nisl%20in%20ultrices.%20Aliquam%20vehicula%20rutrum%20quam%20ac%20scelerisque.%20Aenean%20fringilla%20mollis%20magna%2C%20et%20condimentum%20tellus%20gravida%20sit%20amet.%20Fusce%20dui%20ante%2C%20gravida%20eget%20egestas%20non%2C%20convallis%20eget%20metus.%20Phasellus%20at%20urna%20sapien%2C%20vel%20tempus%20orci.%20Donec%20at%20risus%20at%20urna%20hendrerit%20ultricies.%20Ut%20lobortis%20ipsum%20et%20libero%20pharetra%20pulvinar.%0A%20%0AAenean%20faucibus%20augue%20et%20sem%20fringilla%20vehicula.%20Quisque%20hendrerit%20lacinia%20orci%2C%20vel%20facilisis%20augue%20tincidunt%20nec.%20Fusce%20at%20sodales%20purus.%20Aliquam%20malesuada%20mattis%20suscipit.%20Quisque%20ut%20nisi%20magna.%20Aliquam%20ligula%20leo%2C%20suscipit%20in%20vestibulum%20ultrices%2C%20convallis%20id%20lorem.%20Donec%20lacinia%20rutrum%20nisl%20in%20ultrices.%20Aliquam%20vehicula%20rutrum%20quam%20ac%20scelerisque.%20Aenean%20fringilla%20mollis%20magna%2C%20et%20condimentum%20tellus%20gravida%20sit%20amet.%20Fusce%20dui%20ante%2C%20gravida%20eget%20egestas%20non%2C%20convallis%20eget%20metus.%20Phasellus%20at%20urna%20sapien%2C%20vel%20tempus%20orci.%20Donec%20at%20risus%20at%20urna%20hendrerit%20ultricies.%20Ut%20lobortis%20ipsum%20et%20libero%20pharetra%20pulvinar.%0A%20%0ACurabitur%20vel%20volutpat%20ante.%20Sed%20scelerisque%20tincidunt%20gravida.%20Vestibulum%20facilisis%20sapien%20quis%20nisl%20consequat%20luctus.%20Ut%20vitae%20magna%20sed%20elit%20dignissim%20sagittis%20vel%20a%20ante.%20Aliquam%20sodales%20turpis%20in%20risus%20pulvinar%20gravida%20quis%20ac%20metus.%20Suspendisse%20vulputate%20ullamcorper%20tortor%20laoreet%20rhoncus.%20Class%20aptent%20taciti%20sociosqu%20ad%20litora%20torquent%20per%20conubia%20nostra%2C%20per%20inceptos%20himenaeos.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,19 @@
+%h1 works
+
+- @arts.each do |art|
+  - row_color = cycle('row_odd', 'row_even')
+  %div{class: ["row_class", row_color]}
+    .grid_1= image_tag(art.image_url, class: 'list_image')
+    .grid_9
+      .list_name= art.name
+      .list_desc= truncate(strip_tags(art.description), length: 220)
+    .grid_1
+      %br
+      = link_to 'Show', art
+      %br
+      = link_to 'Edit', edit_art_path(art)
+      %br
+      = link_to 'Destroy', art, :confirm => 'Are you sure?', :method => :delete
+
+
+= link_to 'New Art', new_art_path

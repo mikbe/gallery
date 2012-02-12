@@ -1,0 +1,13 @@
+!!!
+%html
+  %head
+    %title Gallery
+    = stylesheet_link_tag     "application"
+    = javascript_include_tag  "application"
+    = csrf_meta_tags
+  %body
+    .container
+      .grid_12= render "layouts/title"
+    .container
+      #content{class: [controller.controller_name]}= yield
+

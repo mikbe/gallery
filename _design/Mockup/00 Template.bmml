@@ -1,0 +1,22 @@
+<mockup version="1.0" skin="sketch" measuredW="1058" measuredH="799" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="34" y="31" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>toelle-hovan%0Ahttp%3A//toelle-hovan.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="763" y="128" w="-1" h="-1" measuredW="215" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>toelle%20hovan</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::MenuBar" x="680" y="177" w="-1" h="-1" measuredW="305" measuredH="29" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>0</selectedIndex>
+        <text>home%2C%20works%2C%20news%20%26%20events%2C%20classes</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

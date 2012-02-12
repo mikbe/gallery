@@ -1,0 +1,13 @@
+%p#notice= notice
+
+%table
+  %tr
+    %td= image_tag(@artist.image_url, class: "artist_image")
+    %td
+      .artist_name= full_name(@artist).downcase
+      %br
+      .artist_bio= strip_tags(@artist.bio)
+
+= link_to 'Edit', edit_artist_path(@artist)
+\|
+= link_to 'Back', artists_path

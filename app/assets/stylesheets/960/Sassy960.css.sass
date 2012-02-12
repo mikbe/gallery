@@ -1,0 +1,102 @@
+body
+  min-width: 960px
+
+.container
+  margin-left: auto
+  margin-right: auto
+  width: 960px
+
+$grid_count:  12
+$cell_width:  960px / $grid_count
+$margin:      10px
+$margins:     20px
+
+@mixin grid($count)
+  display: inline !important
+  float: left
+  margin-left: 10px
+  margin-right: 10px
+  width: $count * $cell_width
+
+@function grid_size($count)
+  @return ($cell_width * $count)
+
+@function grid_size_with_margins($count)
+  @return ($cell_width * $count) + $margins
+
+@function prefix_size($count)
+  @return grid_size_with_margins($count)
+
+@function sufix_size($count)
+  @return grid_size_with_margins($count)
+
+@function push_size($count)
+  @return grid_size_with_margins($count)
+
+@function pull_size($count)
+  @return (0px - grid_size_with_margins($count))
+
+@for $i from 1 through $grid_count 
+  .grid_#{$i}
+    @include grid($i)
+    
+  .push_#{i}, .pull_#{i}
+    position: relative
+    
+  .container
+    $width: $cell_width * $i
+    $wider: $width + ($margin * 2)
+    .grid_#{$i}
+      width: $width
+    .prefix_#{$i}
+      padding-left: $wider
+    .suffix_#{$i}
+      padding-right: $wider
+    .push_#{$i}
+      left: $wider
+    .pull_#{$i}
+      left: 0px - $wider
+  
+
+.alpha
+  margin-left: 0
+
+.omega
+  margin-right: 0
+
+.clear
+  clear: both
+  display: block
+  overflow: hidden
+  visibility: hidden
+  width: 0
+  height: 0
+
+.clearfix
+  &:before, &:after
+    content: '.'
+    display: block
+    overflow: hidden
+    visibility: hidden
+    font-size: 0
+    line-height: 0
+    width: 0
+    height: 0
+
+.container
+  &:before, &:after
+    content: '.'
+    display: block
+    overflow: hidden
+    visibility: hidden
+    font-size: 0
+    line-height: 0
+    width: 0
+    height: 0
+
+.clearfix:after, .container:after
+  clear: both
+
+.clearfix, .container
+  zoom: 1
+    

@@ -1,0 +1,73 @@
+<mockup version="1.0" skin="sketch" measuredW="1057" measuredH="801" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="33" y="33" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>toelle-hovan%0Ahttp%3A//toelle-hovan.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="762" y="130" w="215" h="50" measuredW="215" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>toelle%20hovan</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::MenuBar" x="687" y="180" w="305" h="29" measuredW="305" measuredH="29" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>0</selectedIndex>
+        <text>home%2C%20works%2C%20news%20%26%20events%2C%20classes</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="61" y="235" w="910" h="510" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="76" y="253" w="573" h="452" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::SubTitle" x="664" y="253" w="65" h="-1" measuredW="65" measuredH="33" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>name</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::SubTitle" x="664" y="286" w="52" h="-1" measuredW="52" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>medium</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::SubTitle" x="664" y="308" w="52" h="-1" measuredW="31" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>size</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::SubTitle" x="664" y="330" w="52" h="-1" measuredW="34" measuredH="22" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>infos</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::MultilineButton" x="835" y="636" w="-1" h="-1" measuredW="98" measuredH="69" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Purchase%0APrint</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::MultilineButton" x="664" y="635" w="-1" h="-1" measuredW="98" measuredH="69" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Purchase%0AOriginal</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Title" x="61" y="151" w="-1" h="-1" measuredW="54" measuredH="85" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>72</size>
+        <text>%3C</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Title" x="251" y="148" w="-1" h="-1" measuredW="55" measuredH="85" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>72</size>
+        <text>%3E</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

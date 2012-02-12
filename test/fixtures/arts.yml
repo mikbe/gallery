@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  description: MyText
+  medium: MyText
+  image_url: MyString
+  created: 2011-12-24
+  artist_id: 1
+
+two:
+  name: MyString
+  description: MyText
+  medium: MyText
+  image_url: MyString
+  created: 2011-12-24
+  artist_id: 1

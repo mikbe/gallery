@@ -1,0 +1,48 @@
+
+// Helper methods
+
+@mixin rounded($radius: 4px)
+  -webkit-border-radius:  $radius
+  -moz-border-radius:     $radius
+  border-radius:          $radius
+
+
+// Global colors
+
+$light_grey:    #bbb
+$medium_grey:   #888
+$dark_grey:     #444
+
+
+// Global row settings
+
+.row_class
+  @include rounded
+  display: table
+  margin: 10px
+  margin-left: 20px
+  padding:
+    top: 10px
+    bottom: 10px
+
+.list_image
+  max-width:  60px
+  max-height: 80px
+
+.list_name
+  color:        #333
+  font-weight:  bold
+  font-size:    larger
+
+.row_even
+  background: #aaa
+  //background: url('black_05pct_opacity.png')
+
+.row_odd
+  background: #ccc
+  //background: url('white_20pct_opacity.png')
+
+
+
+
+

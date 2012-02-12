@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name_first: FirstName
+  name_mi: MI
+  name_last: LastName
+  bio: "This is an artist biography."
+  image_url: "salvador.jpg"
+
+two:
+  name_first: MyString
+  name_mi: MyString
+  name_last: MyString
+  bio: MyText
+  image_url: MyString
